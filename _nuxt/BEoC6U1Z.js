@@ -1,0 +1,1 @@
+import{v as n,z as e,x as s,J as r,g as o,t as c}from"./BF8F-DER.js";const _={class:"container"},i={__name:"app",setup(p){return(m,l)=>{const t=o("Header"),a=o("RouterView");return c(),n(r,null,[e(t),s("div",_,[e(a)])],64)}}};export{i as default};
